@@ -5,7 +5,7 @@
 <img width="1274" height="394" alt="Image" src="https://github.com/user-attachments/assets/fff55516-7b39-4bdd-9026-3fde8951bda6" />
 
 
-1. How bad is churn, really?
+Q1) How bad is churn, really?
 
 Overall churn rate: ~56.7%
 
@@ -22,7 +22,7 @@ Support load keeps rising (which further fuels churn)
 This business is currently in a leaky bucket phase.
 
 
-2. What are the strongest churn drivers?
+Q2) What are the strongest churn drivers?
 
 Ranked by impact (correlation + business logic):
 
@@ -152,6 +152,7 @@ Longer contracts
 Build white-glove retention, not mass campaigns.
 
 6. Strategic recommendations (prioritized)
+7. 
 1️⃣ Fix the churn source, not symptoms
 
 Audit top 5 reasons for support calls
